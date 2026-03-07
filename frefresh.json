@@ -1,0 +1,21 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/DanielAndreassen97/frefresh/releases/download/v1.0.0/frefresh_windows_amd64.zip",
+            "bin": [
+                "frefresh.exe"
+            ],
+            "hash": "cae93107c0db216d7d054e6ec3008cc441023bf84d28e0da6678d0057767e443"
+        },
+        "arm64": {
+            "url": "https://github.com/DanielAndreassen97/frefresh/releases/download/v1.0.0/frefresh_windows_arm64.zip",
+            "bin": [
+                "frefresh.exe"
+            ],
+            "hash": "031abd38d4da939c8ceec534f8d21b557875517fc8548e077efeb9e49e8ea82d"
+        }
+    },
+    "homepage": "https://github.com/DanielAndreassen97/frefresh",
+    "description": "Interactive CLI for refreshing tables in Fabric semantic models"
+}
