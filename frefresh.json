@@ -6,14 +6,14 @@
             "bin": [
                 "frefresh.exe"
             ],
-            "hash": "8b97f69943e3c1e6421e6fe1515d633dc369285eae2a3cee259098f8d9e001e6"
+            "hash": "e562645f0c52ccb55fb73535349c0392edb505ab0fb74d2cd6e1c8eb79ed9874"
         },
         "arm64": {
             "url": "https://github.com/DanielAndreassen97/frefresh/releases/download/v1.2.0/frefresh_windows_arm64.zip",
             "bin": [
                 "frefresh.exe"
             ],
-            "hash": "71ae22309681d29e18133af3740b89d129ca819b98904ea6fbb49c8f68589653"
+            "hash": "052c19cee45dea5894588e1e71a741c0b0ad23d85ebcb22c6e3220760cdfa4af"
         }
     },
     "homepage": "https://github.com/DanielAndreassen97/frefresh",
