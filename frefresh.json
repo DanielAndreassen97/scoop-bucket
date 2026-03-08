@@ -1,19 +1,19 @@
 {
-    "version": "1.2.1",
+    "version": "1.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/DanielAndreassen97/frefresh/releases/download/v1.2.1/frefresh_windows_amd64.zip",
+            "url": "https://github.com/DanielAndreassen97/frefresh/releases/download/v1.3.0/frefresh_windows_amd64.zip",
             "bin": [
                 "frefresh.exe"
             ],
-            "hash": "5b3f85fbaa5b9c0b2a09b0fb4dbad466b494fb5187f2b4ea60ae813e51572720"
+            "hash": "d5db118b3a02723b303257739374259fa85c1ea0ec494fcaa83b693fe83598fd"
         },
         "arm64": {
-            "url": "https://github.com/DanielAndreassen97/frefresh/releases/download/v1.2.1/frefresh_windows_arm64.zip",
+            "url": "https://github.com/DanielAndreassen97/frefresh/releases/download/v1.3.0/frefresh_windows_arm64.zip",
             "bin": [
                 "frefresh.exe"
             ],
-            "hash": "c69893f0a9aed5551c6d509d985b2835d88db21bc6cf3ac3df25edd61f6e41b4"
+            "hash": "9e327c949863330146ac947d1d1ca6067139549e2dc5f741632b2ceb829c9dc4"
         }
     },
     "homepage": "https://github.com/DanielAndreassen97/frefresh",
