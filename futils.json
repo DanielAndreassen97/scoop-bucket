@@ -1,0 +1,21 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/DanielAndreassen97/futils/releases/download/v0.1.0/futils_windows_amd64.zip",
+            "bin": [
+                "futils.exe"
+            ],
+            "hash": "9a343c4b28517aedd3eecd23b8a98be54e73ca5977782da17762475761baca4b"
+        },
+        "arm64": {
+            "url": "https://github.com/DanielAndreassen97/futils/releases/download/v0.1.0/futils_windows_arm64.zip",
+            "bin": [
+                "futils.exe"
+            ],
+            "hash": "e366e98b18c89cb6baa59ac55375f1589bb4885d18632c3cb7eb5bb752a7a82e"
+        }
+    },
+    "homepage": "https://github.com/DanielAndreassen97/futils",
+    "description": "Interactive CLI for working with Microsoft Fabric — run notebooks, move items, manage workspaces"
+}
