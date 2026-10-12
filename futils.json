@@ -1,19 +1,19 @@
 {
-    "version": "0.13.1",
+    "version": "0.13.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/DanielAndreassen97/futils/releases/download/v0.13.1/futils_windows_amd64.zip",
+            "url": "https://github.com/DanielAndreassen97/futils/releases/download/v0.13.2/futils_windows_amd64.zip",
             "bin": [
                 "futils.exe"
             ],
-            "hash": "bdc6d81386698b1d1294499fb752a4eeb413ebfed96dfa602366f980c648d5c2"
+            "hash": "e6ffeaa5098a438a35a0a62a058310f96245591631ea4c57950522696d979680"
         },
         "arm64": {
-            "url": "https://github.com/DanielAndreassen97/futils/releases/download/v0.13.1/futils_windows_arm64.zip",
+            "url": "https://github.com/DanielAndreassen97/futils/releases/download/v0.13.2/futils_windows_arm64.zip",
             "bin": [
                 "futils.exe"
             ],
-            "hash": "6694102431c96f81eab729419ad9d113f0ca90280a0f368213dba925c56778ce"
+            "hash": "cb975c9dae70a488cdb6bcd86e5b6b3800dac4ae7f4a17db5666196f8eab1b42"
         }
     },
     "homepage": "https://github.com/DanielAndreassen97/futils",
